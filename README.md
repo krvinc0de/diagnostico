@@ -1,0 +1,2 @@
+# diagnostico
+practica escolar
